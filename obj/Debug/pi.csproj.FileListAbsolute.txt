@@ -1,0 +1,7 @@
+D:\• Проекты C#\pi\pi\bin\Debug\The Pi Number.exe.config
+D:\• Проекты C#\pi\pi\bin\Debug\The Pi Number.exe
+D:\• Проекты C#\pi\pi\bin\Debug\The Pi Number.pdb
+D:\• Проекты C#\pi\pi\obj\Debug\pi.csprojAssemblyReference.cache
+D:\• Проекты C#\pi\pi\obj\Debug\pi.csproj.CoreCompileInputs.cache
+D:\• Проекты C#\pi\pi\obj\Debug\The Pi Number.exe
+D:\• Проекты C#\pi\pi\obj\Debug\The Pi Number.pdb
